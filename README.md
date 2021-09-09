@@ -20,7 +20,7 @@
 
 ## 📖 Sobre este repositório
 
-Repositório criado com o objetivo de armazenar os exercícios realizados durante a semana de aquecimento à Semana Javascript Expert.
+Repositório criado com o objetivo de armazenar os exercícios realizados durante o aquecimento à Semana Javascript Expert.
 
 ---
 
